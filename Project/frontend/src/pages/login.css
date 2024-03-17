@@ -1,0 +1,30 @@
+#h1{
+    font-size: 70px;
+    font-weight: bolder;
+    color: black;
+}
+.lback{
+    height: 653px;
+    width: 195%;
+    box-sizing: border-box;
+    background-image: url('back.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+}
+.lform{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 0.5%;
+    color: white;
+    font-size: medium;
+    border-radius: 10px;
+}
+.signup{
+    background-color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}

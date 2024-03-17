@@ -1,0 +1,30 @@
+#h1{
+    font-size: 70px;
+    font-weight: bolder;
+    color: black;
+}
+.back{
+    height: 653px;
+    width: 435%;
+    box-sizing: border-box;
+    background-image: url('rback.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+}
+.form{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 300px;
+    height: 400px;
+    position: relative;
+    left: 0.5%;
+    color: white;
+    font-size: medium;
+    border-radius: 10px;
+}
+.signin{
+    background-color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
